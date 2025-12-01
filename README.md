@@ -243,12 +243,29 @@ Enter your choice:
 
 | Name | Role |
 |------|------|
-| **Shaik Abdul Arshad** | Testing & Documentation |
-| **Sri Charan** | Backend Development |
-| **Mohammed Faisal** | Backend & Testing |
-| **Mohammed Zaid** | Backend Support |
-| **G Jashwanth** | UI/UX & Testing |
-| **MD Aman** | Testing Support & Documentation |
+| **Shaik Abdul Arshad** |
+| github: https://github.com/clink9199 |
+| Testing & Documentation |
+
+| **Sri Charan** |
+| github: https://github.com/Ch-SriCharan |
+| Backend Development |
+
+| **Mohammed Faisal** |
+| github: https://github.com/Faisal9381 |
+| Backend & Testing |
+
+| **Mohammed Zaid** |
+| github: https://github.com/zaid9381 |
+| Backend Support |
+
+| **G Jashwanth** |
+| github: https://github.com/GJashwanthReddy |
+| UI/UX & Testing |
+
+| **MD Aman** |
+| github: https://github.com/amanmd27 |
+| Testing Support & Documentation |
 
 ---
 
