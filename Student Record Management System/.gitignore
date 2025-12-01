@@ -30,6 +30,6 @@ hs_err_pid*
 # Windows
 Thumbs.db
 
-# Generated data files (optional - uncomment if you don't want to track data files)
-# students_data.txt
-# students_data.bin
+# Generated data files (created when program runs)
+students_data.txt
+students_data.bin
