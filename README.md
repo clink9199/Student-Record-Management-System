@@ -239,37 +239,20 @@ Enter your choice:
 
 ---
 
-## 👥 Contributors
+## Contributors
 
-| Name | Role |
-|------|------|
-| **Shaik Abdul Arshad** |
-| github: https://github.com/clink9199 |
-| Testing & Documentation |
-
-| **Sri Charan** |
-| github: https://github.com/Ch-SriCharan |
-| Backend Development |
-
-| **Mohammed Faisal** |
-| github: https://github.com/Faisal9381 |
-| Backend & Testing |
-
-| **Mohammed Zaid** |
-| github: https://github.com/zaid9381 |
-| Backend Support |
-
-| **G Jashwanth** |
-| github: https://github.com/GJashwanthReddy |
-| UI/UX & Testing |
-
-| **MD Aman** |
-| github: https://github.com/amanmd27 |
-| Testing Support & Documentation |
+| Name | GitHub | Role |
+|------|--------|------|
+| **Shaik Abdul Arshad** | [@clink9199](https://github.com/clink9199) | Testing & Documentation |
+| **Sri Charan** | [@Ch-SriCharan](https://github.com/Ch-SriCharan) | Backend Development |
+| **Mohammed Faisal** | [@Faisal9381](https://github.com/Faisal9381) | Backend & Testing |
+| **Mohammed Zaid** | [@zaid9381](https://github.com/zaid9381) | Backend Support |
+| **G Jashwanth** | [@GJashwanthReddy](https://github.com/GJashwanthReddy) | UI/UX & Testing |
+| **MD Aman** | [@amanmd27](https://github.com/amanmd27) | Testing Support & Documentation |
 
 ---
 
-## 📄 License
+## License
 
 This project is developed as part of an academic curriculum for educational purposes.
 
