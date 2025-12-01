@@ -248,7 +248,7 @@ Enter your choice:
 | **Mohammed Faisal** | Backend & Testing |
 | **Mohammed Zaid** | Backend Support |
 | **G Jashwanth** | UI/UX & Testing |
-| **MD Aman** | Testing Support |
+| **MD Aman** | Testing Support & Documentation |
 
 ---
 
@@ -259,5 +259,6 @@ This project is developed as part of an academic curriculum for educational purp
 ---
 
 ## 📞 Support
+
 
 For issues or questions, please refer to the `CO_IMPLEMENTATION_SUMMARY.md` file for detailed implementation information.
